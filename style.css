@@ -1,0 +1,35 @@
+
+body
+    {
+    max-width: 650px;
+    margin: 20px auto;
+    line-height: 1.4;
+    font-size: 16px;
+    color: #404040;
+    }
+
+.header
+    {
+    
+    }
+
+.content
+    {
+    
+    }
+    
+nav 
+    {
+    list-style-type:none;
+    }
+
+h1, h2, h3
+    {
+    line-height: 1.2;
+    }
+
+.headerlink
+    {
+    text-decoration:none;
+    color:inherit;
+    }
