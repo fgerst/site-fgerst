@@ -53,7 +53,7 @@ h1, h2, h3 {
 
 @font-face {
     font-family: 'Inter';
-    src: url('fonts/Inter-VariableFont_slnt,wght.ttf');
+    src: url('../fonts/Inter-VariableFont_slnt,wght.ttf');
     font-weight: normal;
     font-style: normal;
 }
