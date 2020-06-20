@@ -1,1 +1,4 @@
-# site_fgerst
+# TODO
+
+-Style Header and Navbar
+-Better lighthouse

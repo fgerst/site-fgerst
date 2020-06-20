@@ -1,10 +1,12 @@
-
+html {
+    font-family:Inter,Helvetica Neue,-apple-system,BlinkMacSystemFont,Helvetica,Segoe UI,
+    Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Microsoft Yahei,sans-serif;
+}
 body {
     margin: 20px auto;
     line-height: 1.8;
     font-size: 14px;
-    color: #404040;
-    font-family: Inter;
+    color: #404040; 
 }
 
 .header {
