@@ -2,7 +2,8 @@
 
 ### #TODO
 - [ ] Better styling on header and navbar
+- [ ] Footer
 - [ ] Better lighthouse results
-  - [ ] Fonts
+  - [ ] Optimizing font
 - [ ] Night theme
 - [ ] Lang switcher
