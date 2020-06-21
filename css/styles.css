@@ -22,8 +22,8 @@ body {
 
 .blink {
     animation: blinker 1.4s cubic-bezier(1, 0, 0, 1) infinite;
-  }
-  
+}
+
 @keyframes blinker {  
     75% { opacity: 0; }
 }    
