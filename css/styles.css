@@ -4,6 +4,7 @@ html {
 }
 body {
     margin: 20px auto;
+    padding: 9px;
     line-height: 1.8;
     font-size: 14px;
     color: #404040; 
