@@ -4,7 +4,7 @@
 - [ ] Better styling on header and navbar
 - [ ] Footer
 - [ ] Optimizing / lighthouse results
-  - [ ] Font
+  - [x] Font
   - [ ] Fix links loading first
 - [ ] Night theme
 - [ ] Lang switcher
