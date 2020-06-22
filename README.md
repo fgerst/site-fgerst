@@ -5,6 +5,7 @@
 - [ ] Footer
 - [ ] Optimizing / lighthouse results
   - [x] Font
-  - [ ] Fix links loading first
+  - [x] Fix links loading first
+  - [ ] Other
 - [ ] Night theme
 - [ ] Lang switcher
