@@ -2,7 +2,7 @@
 
 ### #TODO
 - [ ] Better styling on header and navbar
-- [ ] Footer
+- [ ] Nice footer
 - [ ] Optimizing / lighthouse results
   - [x] Font
   - [x] Fix links rendering first
