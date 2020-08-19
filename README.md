@@ -1,11 +1,12 @@
 # fgerst
 
 ### #TODO
-- [ ] Better styling on header and navbar
-- [ ] Nice footer
-- [ ] Optimizing / lighthouse results
-  - [x] Font
-  - [x] Fix links rendering first
-  - [ ] Other
+- [x] Better styling on header and navbar
+- [ ] Nice footer and social links
+- [ ] Distinction between selected page in navbar
+- [ ] Better url formatting for each page (no .html, no about)
+- [ ] Projects page
+- [ ] Markdown resume (download pdf option)
 - [ ] Night theme
 - [ ] Lang switcher
+- [ ] Optimizing / lighthouse results
