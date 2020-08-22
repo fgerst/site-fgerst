@@ -2,7 +2,7 @@
 
 ### #TODO
 - [x] Better styling on header and navbar
-- [ ] Nice footer and social links
+- [x] Nice footer and social links
 - [ ] Distinction between selected page in navbar
 - [ ] Better url formatting for each page (no .html, no about)
 - [ ] Projects page
