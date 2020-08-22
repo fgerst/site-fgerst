@@ -16,7 +16,7 @@ body {
     justify-content: space-between;
 }
 
-.blink {
+#blink {
     animation: blinker 1.4s cubic-bezier(1, 0, 0, 1) infinite;
 }
 
@@ -24,30 +24,30 @@ body {
     75% { opacity: 0; }
 }
 
-nav {
-    list-style-type: none;
-    text-align: right;
-}
-
-li {
-    display: inline;
-    margin: 6px;  
-}
-
 h1 {
     margin: 0px;
 }
 
+nav {
+    list-style-type: none;
+    text-align: right;
+    font-style: italic;
+}
+
 ul {
     margin: 0px;
-    font-style: oblique;
+}
+
+li {
+    display: inline;
+    margin: 6px;
 }
 
 hr {
     border: 0;
     height: 1px;
-    background: #000;
     opacity: 0.1;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1));
 }
 
 .content {
@@ -55,13 +55,13 @@ hr {
     margin: auto;
 }
 
-p {
-    text-indent: 10px; 
-}
-
 h1, h3 {
     line-height: 1.4;
     font-weight: 600;
+}
+
+p {
+    text-indent: 10px; 
 }
 
 span {
@@ -73,13 +73,9 @@ span {
     margin-top: 20px;
 }
 
-#hlink {
-    text-decoration: none;
-    color: inherit;
-}
-
-#hlink:focus, #hlink:hover {
-    color: #499ed6;
+.hlink {
+    text-decoration: none !important;
+    color: inherit !important;
 }
 
 a, a:visited {
@@ -88,6 +84,6 @@ a, a:visited {
 }
   
 a:focus, a:hover {
-    color: #499ed6;
+    color: #499ed6 !important;
     text-decoration: underline;
 }
