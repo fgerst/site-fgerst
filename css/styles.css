@@ -40,6 +40,7 @@ h1 {
 
 ul {
     margin: 0px;
+    font-style: oblique;
 }
 
 hr {
@@ -55,17 +56,21 @@ hr {
 }
 
 p {
-    text-indent: 10px;
-    
+    text-indent: 10px; 
 }
 
-h1, h2, h3 {
+h1, h3 {
     line-height: 1.4;
+    font-weight: 600;
+}
+
+span {
     font-weight: 600;
 }
 
 .social {
     text-align: center;
+    margin-top: 20px;
 }
 
 #hlink {
