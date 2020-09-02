@@ -6,7 +6,5 @@
 - [ ] Distinction between selected page in navbar
 - [ ] Better url formatting for each page (no .html, no about)
 - [ ] Projects page
-- [ ] Markdown resume (download pdf option)
-- [ ] Night theme
+- [ ] Markdown resume (download pdf)
 - [ ] Lang switcher
-- [ ] Optimizing / lighthouse results
