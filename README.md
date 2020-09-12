@@ -8,3 +8,4 @@
 - [ ] Projects page
 - [ ] Markdown resume (download pdf)
 - [ ] Lang switcher
+- [ ] SPA
