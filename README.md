@@ -3,7 +3,6 @@
 ### #TODO
 
 - [x] Better url formatting for each page (no .html, no about)
-- [ ] Projects page
-- [ ] Markdown resume (download pdf)
+- [x] Projects page
+- [x] resume.pdf
 - [ ] Lang switcher
-- [ ] SPA
