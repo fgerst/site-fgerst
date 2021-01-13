@@ -4,6 +4,7 @@
 
 - [x] Better url formatting for each page (no .html, no about)
 - [ ] Projects page
-- [ ] Markdown resume (download pdf)
+  - [ ] List 
+  - [ ] Tooltips
+- [x] resume.pdf
 - [ ] Lang switcher
-- [ ] SPA
