@@ -7,4 +7,6 @@
   - [ ] List 
   - [ ] Tooltips
 - [x] resume.pdf
-- [ ] Lang switcher
+- [x] Lang switcher
+  - [ ] Position button and navbar
+  - [ ] Elements which toggles lang
