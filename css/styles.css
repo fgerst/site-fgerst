@@ -93,3 +93,18 @@ a:focus, a:hover {
     color: #499ed6 !important;
     text-decoration: underline;
 }
+
+body[lang="en"] [lang="es"],
+body[lang="es"] [lang="en"] {
+    display: none;
+}
+
+#langButton {
+    padding: 4px 4px 4px 26px; 
+    background: #e6e6e6 url(../lang_icon16.png) 4px 4px no-repeat;
+    border-radius: 4px;
+    border: 1px solid #acacac;  
+}
+#langButton:hover {
+    background-color: #f0f0f0;        
+}
