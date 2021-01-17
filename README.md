@@ -8,3 +8,4 @@
 - [x] Lang switcher
   - [ ] Position button and navbar
   - [ ] Elements which toggles lang
+- [ ] Responsive navbar
