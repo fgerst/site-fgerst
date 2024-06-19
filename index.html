@@ -63,15 +63,11 @@
     </div>
 
     <script>
-    function switchLang(currentLang) {
-      if (currentLang === "en") {
-        document.body.setAttribute('lang', "es");
-        document.getElementById("langButton").setAttribute('value', "es");
-      } else { 
-        document.body.setAttribute('lang', "en");
-        document.getElementById("langButton").setAttribute('value', "en");
+      function switchLang(currentLang) {
+        const newLang = currentLang === "en" ? "es" : "en";
+        document.body.setAttribute('lang', newLang);
+        document.getElementById("langButton").setAttribute('value', newLang);
       }
-    }
     </script>
     
     </body>
